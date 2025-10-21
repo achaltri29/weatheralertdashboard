@@ -61,7 +61,7 @@ The backend is available at: https://weather-alert-dashboard.onrender.com
 
 ### Frontend Deployment on Netlify
 
-The frontend is available at: https://eloquent-cuchufli-dbfc4f.netlify.app
+The frontend is available at: [https://eloquent-cuchufli-dbfc4f.netlify.app](https://68eb415f63ad65b5443c9f7a--eloquent-cuchufli-dbfc4f.netlify.app/)
 
 
 
